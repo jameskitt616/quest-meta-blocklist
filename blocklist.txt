@@ -1,0 +1,4 @@
+||facebook.com^
+||*.facebook.com^
+||oculus.com^
+||*.oculus.com^
