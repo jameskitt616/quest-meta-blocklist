@@ -2,3 +2,5 @@
 ||*.facebook.com^
 ||oculus.com^
 ||*.oculus.com^
+||oculuscdn.com^
+||*.oculuscdn.com^
