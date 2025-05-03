@@ -4,3 +4,17 @@
 ||*.oculus.com^
 ||oculuscdn.com^
 ||*.oculuscdn.com^
+||fbcdn.net^
+||*.fbcdn.net^
+||akamaihd.net^
+||*.akamaihd.net^
+||fbcdn.net^
+||*.fbcdn.net^
+||oculusrift.com^
+||*.oculusrift.com^
+||amp-endpoint3.com^
+||*.amp-endpoint3.com^
+||amp-endpoint2.com^
+||*.amp-endpoint2.com^
+||meta.com^
+||*.meta.com^
